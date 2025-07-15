@@ -7,15 +7,26 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 -->
 - 🐱‍💻 Algumas linguagens que já conheço
-  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-E34A29?style=for-the-badge&logo=java&logoColor=white)
-![Java](https://img.shields.io/badge/Java-E34A29?style=for-the-badge&logo=java&logoColor=white)
 
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="5%" height="auto"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="5%" height="auto"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="5%" height="auto"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="5%" height="auto"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="5%" height="auto" />     
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="5%" height="auto"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="5%" height="auto"/>
+</div>
+                   
 - 🌱 Atualmente estou aprendendo
-  
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
+ <div>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"  width="5%" height="auto"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original-wordmark.svg" width="5%" height="auto"/>
+ </div> 
+
+          
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -25,8 +36,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-
+          
 
 ![Snake animation](https://github.com/Giovanna-Lanzillotta/Giovanna-Lanzillotta/blob/output/github-contribution-grid-snake.svg)
-
 
