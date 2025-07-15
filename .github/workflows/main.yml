@@ -1,22 +1,20 @@
-name: Generate Datas
+name: Generate Snake Animation
+
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-  workflow_dispatch:
+  schedule:
+    - cron: "0 */12 * * *" # Executa a cada 12 horas
+  workflow_dispatch: # Permite acionar manualmente
+
 jobs:
   build:
-    name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
-      # Snake Animation
-      - uses: Platane/snk@master
-        id: snake-gif
+      - uses: actions/checkout@v4 # Faz o checkout do seu repositório
+      - uses: Platane/snk@v3 # Usa a Action da cobrinha
         with:
-          github_user_name: Giovanna-Lanzillotta
-          svg_out_path: dist/github-contribution-grid-snake.svg
-      - uses: actions/checkout@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_user_name: Giovanna-Lanzillotta # Mude para o seu nome de usuário do GitHub
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            # Adicione mais linhas aqui se quiser outros GIFs ou SVGs
+            # Por exemplo: dist/ocean.gif?palette=ocean
