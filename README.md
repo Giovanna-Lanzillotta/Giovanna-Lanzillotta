@@ -26,12 +26,12 @@ Here are some ideas to get you started:
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original-wordmark.svg" width="5%" height="auto"/>
  </div> 
 
-
+<br>
 
 <div>
   <a href="https://github.com/Giovanna-Lanzillotta">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?Giovanna-Lanzillotta&layout=compact&langs_count=7&theme=dracula"/>
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?Giovanna-Lanzillotta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giovanna-Lanzillotta&layout=compact&langs_count=7&theme=dracula"/>
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Giovanna-Lanzillotta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
 </div>
 
