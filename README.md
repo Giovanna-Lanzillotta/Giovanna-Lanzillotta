@@ -23,8 +23,13 @@ Here are some ideas to get you started:
 - 💻 Alguns Frameworks que eu conheço
   
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"  width="5%" height="auto" />                    
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg"  width="5%" height="auto" />                                  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"  width="5%" height="auto" />   
+<img width="5%" height="auto" alt="image" src="https://github.com/user-attachments/assets/ad54b3c5-dff7-4ef7-871a-48e564f55f7b" />
+
+
+
+          
+          
 </div>
 
                               
