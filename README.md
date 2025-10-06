@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 -->
-- 🐱‍💻 Algumas linguagens que já conheço
+### 🐱‍💻 Linguagens
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   
@@ -20,26 +20,30 @@ Here are some ideas to get you started:
 </div>
 
 
-- 💻 Alguns Frameworks que eu conheço
+### 💻 Frameworks/Bibliotecas
   
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"  width="5%" height="auto" />   
 <img width="5%" height="auto" alt="image" src="https://github.com/user-attachments/assets/ad54b3c5-dff7-4ef7-871a-48e564f55f7b" />
+         
+</div>
 
+### ⚙ Ferramentas
 
+<div>  
+<img width="5%" height="auto" alt="image" src="https://github.com/user-attachments/assets/64526915-c310-4625-b79f-fc618eb32700" />
 
-          
           
 </div>
 
+### 🎲 Banco de Dados
+
+<div>
+<img width="5%" height="auto" alt="image" src="https://github.com/user-attachments/assets/ceee9378-bcbc-4547-b573-349143ac9cb9" />
+
+  
+</div>
                               
-- 🌱 Atualmente estou aprendendo
-
- <div>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"  width="5%" height="auto"/> 
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg"  width="5%" height="auto"/>         
- </div> 
-
 <br>
 
 <div>
