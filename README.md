@@ -52,6 +52,12 @@ Here are some ideas to get you started:
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Giovanna-Lanzillotta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
 </div>
+
+
+### Redes Sociais
+<div>
+<a href="https://www.linkedin.com/in/giovanna-lanzillotta-nascimento-3b0a52330/" target="_blank"> <img width="5%" height="auto" alt="image" src="https://github.com/user-attachments/assets/68fd53ea-ef42-4513-a2e7-cd581e3be15b" /></a>
+</div>
       
 <!--
 - 👯 I’m looking to collaborate on ...
