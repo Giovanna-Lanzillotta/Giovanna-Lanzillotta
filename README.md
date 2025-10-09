@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"  width="5%" height="auto" />   
 <img width="5%" height="auto" alt="image" src="https://github.com/user-attachments/assets/ad54b3c5-dff7-4ef7-871a-48e564f55f7b" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="5%" height="auto"/>
+          
          
 </div>
 
