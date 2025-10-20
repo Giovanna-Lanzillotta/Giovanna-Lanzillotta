@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 
 ### Redes Sociais
 <div>
-<a href="https://www.linkedin.com/in/giovanna-lanzillotta-nascimento-3b0a52330/"target="_blank"> <img width="5%" height="auto" alt="image" src="https://github.com/user-attachments/assets/68fd53ea-ef42-4513-a2e7-cd581e3be15b" /></a>
+<a href="https://www.linkedin.com/in/giovanna-lanzillotta-nascimento-3b0a52330/" target="_blank"> <img width="5%" height="auto" alt="image" src="https://github.com/user-attachments/assets/68fd53ea-ef42-4513-a2e7-cd581e3be15b" /></a>
 </div>
       
 <!--
