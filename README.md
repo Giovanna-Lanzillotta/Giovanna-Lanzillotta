@@ -47,8 +47,9 @@ Here are some ideas to get you started:
 
 <div>
 <img width="5%" height="auto" alt="image" src="https://github.com/user-attachments/assets/ceee9378-bcbc-4547-b573-349143ac9cb9" />
-
-  
+<img  width="5%" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+          
+ 
 </div>
                               
 <br>
