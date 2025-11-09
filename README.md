@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="5%" height="auto" />     
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="5%" height="auto"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="5%" height="auto"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"  width="5%" height="auto"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"  width="5%" height="auto"/>        
           
 </div>
 
@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 <img width="5%" height="auto" alt="image" src="https://github.com/user-attachments/assets/ad54b3c5-dff7-4ef7-871a-48e564f55f7b" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="5%" height="auto"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="5%"/>
-          
-         
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg" width="7%" height="auto"/>
+                 
 </div>
 
 ### ⚙ Ferramentas
