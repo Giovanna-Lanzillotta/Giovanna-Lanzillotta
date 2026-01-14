@@ -51,6 +51,8 @@ Here are some ideas to get you started:
           
  
 </div>
+
+### 🤖 Inteligência Artificial
                               
 <br>
 
@@ -61,7 +63,6 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-### 🤖 Inteligência Artificial
 
 ### Redes Sociais
 <div>
