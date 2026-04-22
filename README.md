@@ -57,6 +57,13 @@ Here are some ideas to get you started:
 </div>
 
 ### 🤖 Inteligência Artificial
+<div>
+<!-- - ⚡ Produtividade:
+  <br>
+- 🔗 Integração:
+  <br>
+- 📊 Dados: -->
+</div>
                               
 <br>
 
