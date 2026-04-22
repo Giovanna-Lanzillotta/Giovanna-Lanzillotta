@@ -35,7 +35,10 @@ Here are some ideas to get you started:
 
 ### ⚙ Ferramentas
 
-<div>  
+<div>
+  
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" width="5%" height="auto"/>             
 <img width="5%" height="auto" alt="image" src="https://github.com/user-attachments/assets/64526915-c310-4625-b79f-fc618eb32700" />
 <img width="5%" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="5%"/>
