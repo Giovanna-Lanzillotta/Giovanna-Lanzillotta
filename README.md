@@ -29,9 +29,10 @@ Here are some ideas to get you started:
 <img width="5%" height="auto" alt="image" src="https://github.com/user-attachments/assets/ad54b3c5-dff7-4ef7-871a-48e564f55f7b" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="5%" height="auto"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg" width="7%" height="auto"/>
-  <kbd>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="50" />
-</kbd>
+<img alt="image" src="https://github.com/user-attachments/assets/6bcedb57-9245-4808-a312-bac348fcb520"  width="5%"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"  width="5%"/>
+  
+</div>
 
 ### ⚙ Ferramentas
 
