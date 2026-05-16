@@ -68,11 +68,12 @@ Here are some ideas to get you started:
                               
 <br>
 
-<div>
-  <a href="https://github.com/Giovanna-Lanzillotta">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giovanna-Lanzillotta&layout=compact&langs_count=7&theme=dracula"/>
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Giovanna-Lanzillotta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </a>
+<div align="center">
+  <!-- Status do Perfil -->
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Giovanna-Lanzillotta&theme=radical" />
+  
+  <!-- Suas linguagens mais usadas -->
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Giovanna-Lanzillotta&theme=radical" />
 </div>
 
 
