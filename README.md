@@ -1,11 +1,10 @@
-## Bem vindo ao meu perfil GitHub  👋
-
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=00f2fe,4facfe&text=✨Bem%20vindo%20ao%20meu%20perfil%20GitHub%20✨&fontSize=32&theme=ocean" />
 <!--
 **Giovanna-Lanzillotta/Giovanna-Lanzillotta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
 -->
+
+
 ### 🐱‍💻 Linguagens
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
@@ -15,12 +14,10 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="5%" height="auto"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="5%" height="auto"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="5%" height="auto" />     
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="5%" height="auto"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="5%" height="auto"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"  width="5%" height="auto"/>        
-          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"  width="5%" height="auto" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="5%" height="auto"/>      
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"  width="5%" height="auto"/>             
 </div>
-
 
 ### 💻 Frameworks/Bibliotecas e outros
   
@@ -82,13 +79,6 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/giovanna-lanzillotta-nascimento-3b0a52330/" target="_blank"> <img width="5%" height="auto" alt="image" src="https://github.com/user-attachments/assets/68fd53ea-ef42-4513-a2e7-cd581e3be15b" /></a>
 </div>
       
-<!--
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-![Snake animation](https://github.com/Giovanna-Lanzillotta/Giovanna-Lanzillotta/blob/output/github-contribution-grid-snake.svg)
--->
 ![Snake animation](https://github.com/Giovanna-Lanzillotta/Giovanna-Lanzillotta/raw/output/github-contribution-grid-snake.svg)
+
+
