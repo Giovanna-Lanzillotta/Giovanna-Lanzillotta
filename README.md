@@ -46,6 +46,15 @@ Here are some ideas to get you started:
 <div>
 <a href="https://www.linkedin.com/in/giovanna-lanzillotta-nascimento-3b0a52330/" target="_blank"> <img width="5%" height="auto" alt="image" src="https://github.com/user-attachments/assets/68fd53ea-ef42-4513-a2e7-cd581e3be15b" /></a>
 </div>
+
+# <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/04db2e8d-046f-4835-8eac-97341af03dd3" /> Idiomas / Languages
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Português-Nativo-009c3b?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Espanhol-Intermediário-002f6c?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Inglês-Básico-c60b1e?style=for-the-badge" />
+
+
       
 ![Snake animation](https://github.com/Giovanna-Lanzillotta/Giovanna-Lanzillotta/raw/output/github-contribution-grid-snake.svg)
 
