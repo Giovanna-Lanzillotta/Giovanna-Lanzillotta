@@ -54,15 +54,15 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Espanhol-Intermediário-002f6c?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Inglês-Básico-c60b1e?style=for-the-badge" />
 
-  <!--
+   <!--
 | Idioma | Nível | Compreensão | Conversação |
 | :--- | :---: | :---: | :---: |
 | <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/ab69f6ed-592b-4178-9d66-a928d296a217" /> Português | Nativo | 100% | Nativo |
 | <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/09b24345-fc7a-416f-aede-c9e19faae8dd" /> Inglês | Básico | Intermediário (Leitura Técnica) | Básico |
 | <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/9a0ec6ff-98c9-4735-8d94-71fdb3a42189" /> Espanhol | Intermediário | Intermediário | Intermediário |
- Italiano | Básico | Básico | Básico |
-
+| <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/b9e94f3b-cc31-4876-bda5-2e29f8b5ed61" /> Italiano | Básico | Básico | Básico |
 -->
+
       
 ![Snake animation](https://github.com/Giovanna-Lanzillotta/Giovanna-Lanzillotta/raw/output/github-contribution-grid-snake.svg)
 
