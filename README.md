@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=00f2fe,4facfe&text=✨Bem%20vindo%20ao%20meu%20perfil%20GitHub%20✨&fontSize=32&theme=ocean" width=100%/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=FF1493,FF1493&text=✨Bem%20vindo%20ao%20meu%20perfil%20GitHub%20✨&fontSize=36&fontColor=4B0082&stroke=000000&theme=ocean&animation=scaleIn" width=100%/>
 <!--
 **Giovanna-Lanzillotta/Giovanna-Lanzillotta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
