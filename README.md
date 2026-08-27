@@ -30,9 +30,8 @@ Here are some ideas to get you started:
 <img  width="5%" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 <img width="5%" height="auto" alt="image" src="https://github.com/user-attachments/assets/126a614a-5b95-4ef9-95bd-d96d9576e9bf" />
 <img width="10%" alt="image" src="https://github.com/user-attachments/assets/c67902e8-a5f0-4ea2-8532-e476df486ea9" />
-
-          
-          
+ <img width="5%" height="auto" src="https://img.icons8.com/?size=100&id=eyShSycUjhR9&format=png&color=00FF00" alt="Cisco Packet Tracer">
+   
 
 </div>
        
