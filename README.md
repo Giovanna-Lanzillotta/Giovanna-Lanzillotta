@@ -34,19 +34,15 @@ Here are some ideas to get you started:
    
 
 </div>
-       
-                           
-<br>
 
-<div align="center">
-  <!-- Status do Perfil -->
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Giovanna-Lanzillotta&theme=radical" />
-  
-  <!-- Suas linguagens mais usadas -->
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Giovanna-Lanzillotta&theme=radical" />
+# Redes
+<div>
+  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/d7da5a19-faf7-48a7-99d8-20584b79326d" />
+  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/c57f507f-247b-49f6-bfa8-064122e9852a" />
+  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/a0fda638-6391-4d51-8fcc-d4e102dffb8e" />
 </div>
 
-
+                           
 # <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/d479745b-6531-4619-888d-1fd39d11b35e" /> Social Media
 <div>
 <a href="https://www.linkedin.com/in/giovanna-lanzillotta-nascimento-3b0a52330/" target="_blank"> <img width="5%" height="auto" alt="image" src="https://github.com/user-attachments/assets/68fd53ea-ef42-4513-a2e7-cd581e3be15b" /></a>
@@ -60,6 +56,15 @@ Here are some ideas to get you started:
 | <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/09b24345-fc7a-416f-aede-c9e19faae8dd" /> Inglês | Básico | Intermediário (Leitura Técnica) | Básico |
 | <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/9a0ec6ff-98c9-4735-8d94-71fdb3a42189" /> Espanhol | Intermediário | Intermediário | Intermediário |
 | <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/b9e94f3b-cc31-4876-bda5-2e29f8b5ed61" /> Italiano | Básico | Básico | Básico |
+
+
+<div align="center">
+  <!-- Status do Perfil -->
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Giovanna-Lanzillotta&theme=radical" />
+  
+  <!-- Suas linguagens mais usadas -->
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Giovanna-Lanzillotta&theme=radical" />
+</div>
 
 
       
