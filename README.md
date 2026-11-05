@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 <img width="5%" height="auto" alt="image" src="https://github.com/user-attachments/assets/3967e0c1-f18f-4f8f-a38f-d586a4f5c830" />
 
 
+
 </div>
 
 # Redes
@@ -42,6 +43,7 @@ Here are some ideas to get you started:
   <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/c57f507f-247b-49f6-bfa8-064122e9852a" />
   <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/a0fda638-6391-4d51-8fcc-d4e102dffb8e" />
   <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/267551c5-72c8-4aed-aa9a-9a824b221737" />
+  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/9c9bde3c-0f48-4b0d-9611-ac10c6a3f8bd" />
 
 </div>
 
